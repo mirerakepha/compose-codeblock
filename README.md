@@ -56,6 +56,12 @@ dependencies {
 
 ## Usage
 
+### Imports
+```kotlin
+import com.falconwebs.codeblock.core.CodeBlock
+import com.falconwebs.codeblock.theme.CodeBlockTheme
+```
+
 ### Zero config — auto adapts to your app's dark/light theme
 ```kotlin
 CodeBlock(code = myCode)
