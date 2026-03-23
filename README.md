@@ -8,6 +8,11 @@ Auto-detects the programming language and adapts to your app's light/dark theme.
 ---
 
 ## Sample Previews
+| Light Theme | Dark Theme |
+|---|---|
+| ![Screenshot_20260323-164211](https://github.com/user-attachments/assets/9ad61beb-cb2f-4ea4-9e82-b0168e7a4731) | ![Screenshot_20260323-164242](https://github.com/user-attachments/assets/3691ecba-3799-4cbd-b195-de58924be1ba) |
+
+---
 
 | Dracula | One Dark Pro | Tokyo Night |
 |---|---|---|
