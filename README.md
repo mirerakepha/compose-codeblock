@@ -53,7 +53,7 @@ dependencyResolutionManagement {
 ### 2. Add the dependency
 ```kotlin
 dependencies {
-    implementation("com.github.mirerakepha:compose-codeblock:1.0.0")
+    implementation("com.github.mirerakepha:compose-codeblock:{LAST-RELEASE}")
 }
 ```
 
