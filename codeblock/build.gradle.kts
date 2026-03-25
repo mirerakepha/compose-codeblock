@@ -46,7 +46,7 @@ android {
 
 publishing {
     publications {
-        register<MavenPublication>("release") {   // ← Kotlin DSL syntax
+        register<MavenPublication>("release") {
             groupId = "com.github.mirerakepha"
             artifactId = "compose-codeblock"
             version = "1.0.0"

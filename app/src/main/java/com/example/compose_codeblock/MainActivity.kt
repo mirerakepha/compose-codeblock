@@ -55,7 +55,7 @@ class MainActivity : ComponentActivity() {
                                     println!("Hello from @falcon.webs_")
                                 }
                             """.trimIndent(),
-                            theme = CodeBlockTheme.solarizedDark()
+                            theme = CodeBlockTheme.tokyoNight()
                         )
                     }
                 }

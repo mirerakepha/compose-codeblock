@@ -1,6 +1,7 @@
 package com.falconwebs.codeblock.core
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
@@ -45,6 +46,7 @@ fun CodeBlock(
         modifier = modifier
             .fillMaxWidth()
             .clip(RoundedCornerShape(12.dp))
+            .border(1.dp, resolvedTheme.textColor.copy(alpha = 0.08f), RoundedCornerShape(12.dp))
             .background(resolvedTheme.background)
     ) {
         Row(
